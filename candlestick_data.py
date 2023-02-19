@@ -20,7 +20,7 @@ nasfut = TA_Handler(
 analysis = nasfut.get_analysis()
 
 
-
+#Testing bruh. 
 
 
 
