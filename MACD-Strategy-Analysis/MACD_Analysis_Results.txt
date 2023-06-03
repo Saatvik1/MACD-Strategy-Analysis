@@ -1,3 +1,0 @@
--28558.0078125 of standard MACD run.
-
-Write a report, provide details about the numbers, then  give insight, what it could mean and the reasoning behind it, and then some solutions
