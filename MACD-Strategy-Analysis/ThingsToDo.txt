@@ -1,0 +1,18 @@
+Last completed: 
+    Fixed errors and had to replace candle stick data library to yfinance from trading views data feed. 
+    Added a way for program to create an EMA array for given period x
+
+Need To Do Next:
+    Round the values to 100th place (.75)                               DONE 
+    Put them in THE data dataframe (maybe rename the variable too)      DONE
+    Apply it to graph                                                   DONE
+    Make the MACD lines and macd object class                           NOT DONE
+
+Goals:
+    Get EMA line on graph <--- DONE
+
+    Add subplot underneat bar graph for MACD analysis                                                       DONE 
+    Apply a system to make the MACD based off user input (what emas will be used) <- easy                   DONE?         i think one of the methods has a useless input
+    Apply buy and sell markers (if sell is too much just do buy)     <--- challenge                         DONE 
+    Calculate statistics of how profitable it is      <--- immediate big goal 
+    Calculate other statistics of win rate at different conditions (days, volume, area of price, etc)   <--- long long term goal
