@@ -1,6 +1,6 @@
 from tradingview_ta import *
 import tradingview_ta
-import datetime
+#import datetime
 from datetime import *
 
 print(tradingview_ta.__version__)
@@ -17,15 +17,16 @@ nasfut = TA_Handler(
 
 
 
-analysis = nasfut.get_analysis()
+#analysis = nasfut.get_analysis()
 
 
 #Testing bruh. 
 
 
 
-print(analysis.time)
-print(analysis.indicators["low"])
+#print(analysis.time)
+#print(analysis.indicators["low"])
+
 analysis = nasfut.get_analysis()
 
 

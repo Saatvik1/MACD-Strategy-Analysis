@@ -1,4 +1,4 @@
-from tvDatafeed import TvDatafeed,Interval
+#from tvDatafeed import TvDatafeed,Interval
 from websocket import create_connection
 
 #install: selenium, websocket, websocket-client
@@ -9,7 +9,7 @@ from websocket import create_connection
 
 
 #tv=TvDatafeed(username, password, chromedriver_path=None)
-
+""" 
 tv = TvDatafeed()
 
 nas_fut = tv.get_hist(symbol='NQH2023',exchange='CME_MINI',interval=Interval.in_daily,n_bars=22)
@@ -18,3 +18,4 @@ nas_fut_5min = tv.get_hist(symbol='NQH2023',exchange='CME_MINI',interval=Interva
 
 print(nas_fut)
 print(nas_fut_5min)
+"""
