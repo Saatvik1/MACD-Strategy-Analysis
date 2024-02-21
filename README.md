@@ -10,3 +10,4 @@ Thank you!!!
 
 <img width="694" alt="image" src="https://github.com/Saatvik1/MACD-Strategy-Analysis/assets/103705402/98ee7006-39d8-420e-826e-8e1e7aae4024">
 
+<img width="692" alt="image" src="https://github.com/Saatvik1/MACD-Strategy-Analysis/assets/103705402/e979c875-548d-4d00-adc1-5aa32c47e69b">
